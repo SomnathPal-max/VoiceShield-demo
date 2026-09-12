@@ -1,0 +1,6 @@
+{
+  "name": "VoiceShield",
+  "description": "Interactive prototype dashboard for a real-time AI voice-cloning fraud detection system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
